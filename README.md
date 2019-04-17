@@ -1,1 +1,1 @@
-# C_Sharp_MiNI
+C# - tasks from laboratory at MiNI faculty of Warsaw University of Technology
